@@ -1,0 +1,40 @@
+# Internship Application – R&D Engineering Team, Synopsys (Noida)
+
+## Why I’m a Good Fit
+I have a strong background in Digital Design, Verification, and Design for Testability (DFT) concepts, with experience in both theoretical and practical aspects.
+My prior internship experience in DFT at Cadence (1 year) allowed me to work on scan chain architecture, ATPG, and fault modeling, giving me hands-on exposure to 
+industry-level tools and flows.
+
+I am highly motivated to contribute to the R&D team at Synopsys and learn from cutting-edge projects that impact the semiconductor industry.
+
+## Relevant Skills
+- **Programming:** C
+- **HDL:** Verilog, SystemVerilog, UVM methodology
+- **Digital Design:** Computer Architecture, RTL Design, FSM, Timing Analysis
+- **DFT Concepts:** Scan Chain Insertion, Test Compression, Fault Simulation
+- **Tools & Environment:** Linux/Unix, Shell scripting
+
+## Relevant Experiences
+- **M.Tech in VLSI Design, NIT Kurukshetra** – Coursework in DFT, SoC Design, Verification, and Physical Design.
+- **Internship at Cadence (DFT Team)** – Worked on scan compression strategies, ATPG, and low-power test methodologies.
+- Developed multiple RTL-based mini-projects and verification testbenches.
+
+******************PROJECTS************************
+
+****32-bit RISC Processor using Verilog*****
+
+Implemented a 32-bit RISC processor using Verilog, Implemented basic I-type, R- type, and J-type
+instructions. Checked the functionality of the modules by writing testbenches.
+Tools used: Xilinx Vivado
+
+*******Design and Verification of AMBA - APB Protocol*****
+
+Written RTL code and testbench for APB modules in System Verilog, Verified the data transfer
+between Master & Slave, Analyzed waveforms for any protocol violations.
+Tools used: Xcelium
+
+*******Design of 6T SRAM *******
+
+Designed 6T SRAM, analyzed waveforms for read and write operations, and designed a sense
+amplifier using TSMC 180 nm CMOS devices.
+Tools used: LTspice
